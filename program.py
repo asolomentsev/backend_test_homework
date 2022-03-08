@@ -1,3 +1,3 @@
 print('Я домашка')
-print('')
+print('test')
 
